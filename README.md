@@ -1,4 +1,4 @@
-readme_content = """
+
 # 🚀 Physical Stamp Detection using YOLOv8
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
